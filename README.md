@@ -37,6 +37,8 @@ Las fuentes de datos para realizar la integración de datos son:
 1. Coordenadas.xlsx
 2. Codigo postales.xlsx
 
+En el archivo de Diccionario hay descripción de las caracteristicas del dataset. 
+
 Para la transformacion de datos se encuentra en el archivo de LINK.txt.
 
 Es un placer compartir informacion de mi trabajo final del Master Big Data y Ciencia de Datos. 
